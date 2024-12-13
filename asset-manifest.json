@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tea-present-note/static/css/main.bb797024.css",
+    "main.css": "/tea-present-note/static/css/main.280d112b.css",
     "main.js": "/tea-present-note/static/js/main.725709cc.js",
     "index.html": "/tea-present-note/index.html",
-    "main.bb797024.css.map": "/tea-present-note/static/css/main.bb797024.css.map",
+    "main.280d112b.css.map": "/tea-present-note/static/css/main.280d112b.css.map",
     "main.725709cc.js.map": "/tea-present-note/static/js/main.725709cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb797024.css",
+    "static/css/main.280d112b.css",
     "static/js/main.725709cc.js"
   ]
 }
