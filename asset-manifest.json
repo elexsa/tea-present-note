@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/css/main.1679400e.css",
-    "main.js": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/js/main.79745b79.js",
-    "index.html": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/index.html",
-    "main.1679400e.css.map": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/css/main.1679400e.css.map",
-    "main.79745b79.js.map": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/js/main.79745b79.js.map"
+    "main.css": "/tea-present-note/static/css/main.1679400e.css",
+    "main.js": "/tea-present-note/static/js/main.79745b79.js",
+    "index.html": "/tea-present-note/index.html",
+    "main.1679400e.css.map": "/tea-present-note/static/css/main.1679400e.css.map",
+    "main.79745b79.js.map": "/tea-present-note/static/js/main.79745b79.js.map"
   },
   "entrypoints": [
     "static/css/main.1679400e.css",
