@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/css/main.1679400e.css",
+    "main.js": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/js/main.c77c7618.js",
+    "index.html": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/index.html",
+    "main.1679400e.css.map": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/css/main.1679400e.css.map",
+    "main.c77c7618.js.map": "/tea-present-$%20git%20remote%20add%20origin%20https://github.com/%7Busername%7D/%7Brepo-name%7D.gitnote/static/js/main.c77c7618.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1679400e.css",
+    "static/js/main.c77c7618.js"
+  ]
+}
